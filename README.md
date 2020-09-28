@@ -11,7 +11,6 @@ Using Firebase to authenticate and as a storage
 ## Screencshots
 <img width="250" alt="MyPosts" src="https://i.imgur.com/LLBAZRh.png"/> <img width="250" alt="Search" src="https://i.imgur.com/WxcdM0K.png"/>
 
-<img width="250" alt="Search" src="https://i.imgur.com/mLWpqlS.png"/>
-<img width="250" alt="HomePage" src="https://i.imgur.com/WxcdM0K.png"/> <img width="250" alt="Comments" src="https://i.imgur.com/P8WMpLH.png"/>
+<img width="250" alt="Search" src="https://i.imgur.com/mLWpqlS.png"/> <img width="250" alt="Comments" src="https://i.imgur.com/P8WMpLH.png"/>
 
 
