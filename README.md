@@ -8,7 +8,7 @@ Using Firebase to authenticate and as a storage
 4. Like and comment their posts
 5. Search for people
 
-## Screencshots
+## Screenshots
 <img width="250" alt="MyPosts" src="https://i.imgur.com/LLBAZRh.png"/> <img width="250" alt="Search" src="https://i.imgur.com/WxcdM0K.png"/>
 
 <img width="250" alt="Search" src="https://i.imgur.com/mLWpqlS.png"/> <img width="250" alt="Comments" src="https://i.imgur.com/P8WMpLH.png"/>
