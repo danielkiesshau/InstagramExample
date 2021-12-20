@@ -1,6 +1,8 @@
 # Instagram example - Android JAVA
 Using Firebase to authenticate and as a storage
 
+[Udemy Certificate](https://www.udemy.com/certificate/UC-264107c0-96b0-405f-8177-6cd12759c892/)
+
 ## Features implemented
 1. Login/Register account
 2. Upload posts and apply filters to photos
